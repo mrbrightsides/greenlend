@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.19-363636)](https://soliditylang.org/)
 
-> **Democratizing access to capital by measuring IMPACT, not just credit scores.**
+> For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
 
 GreenLend is an AI-driven microfinance platform that unlocks finance for underserved communities by evaluating sustainability impact alongside traditional creditworthiness. Built for the unbanked, powered by AI agents, and secured by blockchain.
 
