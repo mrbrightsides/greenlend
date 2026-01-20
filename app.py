@@ -19,14 +19,16 @@ with st.sidebar:
     #### 🔮 Vision Statement
     
     We envision a world where microfinance is not just about providing loans, but about fostering sustainable development and positive environmental impact through every transaction.
+
+    > The original version can be accessed here https://greenlend.elpeef.com/
    
     ---
     ### 🧩 Apps Showcase
-    Lihat disini untuk semua tools yang kami kembangkan:
+    Our other apps and tools can be seen here:
     [ELPEEF](https://showcase.elpeef.com/)
     
     ---
-    #### 🙌 Dukungan & kontributor
+    #### 🙌 Support & Contribute
     
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/greenlend)
     - Built with 💙 by [Khudri](https://s.id/khudri)
