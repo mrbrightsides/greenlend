@@ -15,7 +15,9 @@ with st.sidebar:
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
     **Green Lend** empowers underserved communities with AI-powered sustainable microfinance solutions.
+    
     ---
+    
     #### 🔮 Vision Statement
     
     We envision a world where microfinance is not just about providing loans, but about fostering sustainable development and positive environmental impact through every transaction.
@@ -23,11 +25,13 @@ with st.sidebar:
     > The original version can be accessed here https://greenlend.elpeef.com/
    
     ---
+   
     ### 🧩 Apps Showcase
     Our other apps and tools can be seen here:
     [ELPEEF](https://showcase.elpeef.com/)
     
     ---
+  
     #### 🙌 Support & Contribute
     
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/greenlend)
