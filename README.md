@@ -10,6 +10,10 @@
 
 GreenLend is an AI-driven microfinance platform that unlocks finance for underserved communities by evaluating sustainability impact alongside traditional creditworthiness. Built for the unbanked, powered by AI agents, and secured by blockchain.
 
+[![Live Web App](https://img.shields.io/badge/Live%20Web-greenlend.elpeef.com-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://greenlend.elpeef.com)
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit%20Demo-greenlend.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://greenlend.streamlit.app)
+
 ---
 
 ## 🎯 The Problem
