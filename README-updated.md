@@ -195,7 +195,7 @@ GreenLend Micro directly supports **7 UN Sustainable Development Goals**:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/greenlend.git
+git clone https://github.com/mrbrightsides/greenlend.git
 cd greenlend
 
 # Install dependencies
